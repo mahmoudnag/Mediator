@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mediatero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\handlers\\deleteempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\handlers\\deleteempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\handlers\\updateempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\handlers\\updateempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\handlers\\getempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\handlers\\getempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\handlers\\createempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\handlers\\createempolyeehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\handlers\\getempolyeelisthandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\handlers\\getempolyeelisthandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\comman\\createempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\comman\\createempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\comman\\deleteempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\comman\\deleteempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\comman\\updateempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\comman\\updateempolyeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\data\\queries\\getemployeelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\data\\queries\\getemployeelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\services\\employeereposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\services\\employeereposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\services\\iemployeereposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\services\\iemployeereposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ReositoryPattern\\Smat_Cities\\SmartCities.Core\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\connections\\applcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\connections\\applcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\migrations\\applcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\migrations\\applcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|e:\\mediatero\\mediatero\\migrations\\20240504081613__first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1A693B-B6AC-4657-A772-335AD95D07E6}|Mediatero\\Mediatero.csproj|solutionrelative:mediatero\\migrations\\20240504081613__first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\clonerrr\\SmartCitities.WebSite\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteEmpolyeeHandlers.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\DeleteEmpolyeeHandlers.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Handlers\\DeleteEmpolyeeHandlers.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\DeleteEmpolyeeHandlers.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Handlers\\DeleteEmpolyeeHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:44:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmpolyeeHandlers.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\UpdateEmpolyeeHandlers.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Handlers\\UpdateEmpolyeeHandlers.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\UpdateEmpolyeeHandlers.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Handlers\\UpdateEmpolyeeHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:43:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetEmpolyeeHandlers.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\GetEmpolyeeHandlers.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Handlers\\GetEmpolyeeHandlers.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\GetEmpolyeeHandlers.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Handlers\\GetEmpolyeeHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:42:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmpolyeeHandlers.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\CreateEmpolyeeHandlers.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Handlers\\CreateEmpolyeeHandlers.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\CreateEmpolyeeHandlers.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Handlers\\CreateEmpolyeeHandlers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:41:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteEmpolyeeCommand.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Comman\\DeleteEmpolyeeCommand.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Comman\\DeleteEmpolyeeCommand.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Comman\\DeleteEmpolyeeCommand.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Comman\\DeleteEmpolyeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:37:45.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Mediatero\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:28:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmpolyeeCommand.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Comman\\UpdateEmpolyeeCommand.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Comman\\UpdateEmpolyeeCommand.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Comman\\UpdateEmpolyeeCommand.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Comman\\UpdateEmpolyeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:38:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmpolyeeCommand.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Comman\\CreateEmpolyeeCommand.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Comman\\CreateEmpolyeeCommand.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Comman\\CreateEmpolyeeCommand.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Comman\\CreateEmpolyeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:37:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:35:35.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEmployeeListQuery.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Queries\\GetEmployeeListQuery.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Queries\\GetEmployeeListQuery.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Queries\\GetEmployeeListQuery.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Queries\\GetEmployeeListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:33:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmpolyeeListHandlers.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\GetEmpolyeeListHandlers.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Data\\Handlers\\GetEmpolyeeListHandlers.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Data\\Handlers\\GetEmpolyeeListHandlers.cs",
+              "RelativeToolTip": "Mediatero\\Data\\Handlers\\GetEmpolyeeListHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:10:57.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Program.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Program.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Program.cs",
+              "RelativeToolTip": "Mediatero\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:29:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeReposirory.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Services\\EmployeeReposirory.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Services\\EmployeeReposirory.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Services\\EmployeeReposirory.cs",
+              "RelativeToolTip": "Mediatero\\Services\\EmployeeReposirory.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:00:20.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Empolyee.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Models\\Empolyee.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Models\\Empolyee.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Models\\Empolyee.cs",
+              "RelativeToolTip": "Mediatero\\Models\\Empolyee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:25:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeReposirory.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Services\\IEmployeeReposirory.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Services\\IEmployeeReposirory.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Services\\IEmployeeReposirory.cs",
+              "RelativeToolTip": "Mediatero\\Services\\IEmployeeReposirory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:14:28.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplContext.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Connections\\ApplContext.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Connections\\ApplContext.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Connections\\ApplContext.cs",
+              "RelativeToolTip": "Mediatero\\Connections\\ApplContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:26:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\appsettings.json",
+              "RelativeDocumentMoniker": "Mediatero\\appsettings.json",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\appsettings.json",
+              "RelativeToolTip": "Mediatero\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T07:28:16.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Migrations\\ApplContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Migrations\\ApplContextModelSnapshot.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Migrations\\ApplContextModelSnapshot.cs",
+              "RelativeToolTip": "Mediatero\\Migrations\\ApplContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:37:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\ReositoryPattern\\Smat_Cities\\SmartCities.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\ReositoryPattern\\Smat_Cities\\SmartCities.Core\\IUnitOfWork.cs",
+              "ToolTip": "E:\\ReositoryPattern\\Smat_Cities\\SmartCities.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\ReositoryPattern\\Smat_Cities\\SmartCities.Core\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:00:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240504081613__first.cs",
+              "DocumentMoniker": "E:\\Mediatero\\Mediatero\\Migrations\\20240504081613__first.cs",
+              "RelativeDocumentMoniker": "Mediatero\\Migrations\\20240504081613__first.cs",
+              "ToolTip": "E:\\Mediatero\\Mediatero\\Migrations\\20240504081613__first.cs",
+              "RelativeToolTip": "Mediatero\\Migrations\\20240504081613__first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:16:13.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\clonerrr\\SmartCitities.WebSite\\Program.cs",
+              "RelativeDocumentMoniker": "..\\clonerrr\\SmartCitities.WebSite\\Program.cs",
+              "ToolTip": "E:\\clonerrr\\SmartCitities.WebSite\\Program.cs",
+              "RelativeToolTip": "..\\clonerrr\\SmartCitities.WebSite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:29:04.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mediatero.props" />
+</Project>
